@@ -247,6 +247,6 @@ const App = () => {
       </Content>
     </Root>
   );
-};
+};  
 
 export default App;
